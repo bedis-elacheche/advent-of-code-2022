@@ -8,7 +8,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 ## Days
 
 - [Day 01: Calorie Counting](day-01/)
-- [Day 02: TBD](day-02/)
+- [Day 02: Rock Paper Scissors](day-02/)
 - [Day 03: TBD](day-03/)
 - [Day 04: TBD](day-04/)
 - [Day 05: TBD](day-05/)
