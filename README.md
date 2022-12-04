@@ -10,7 +10,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 01: Calorie Counting](day-01/)
 - [Day 02: Rock Paper Scissors](day-02/)
 - [Day 03: Rucksack Reorganization](day-03/)
-- [Day 04: TBD](day-04/)
+- [Day 04: Camp Cleanup](day-04/)
 - [Day 05: TBD](day-05/)
 - [Day 06: TBD](day-06/)
 - [Day 07: TBD](day-07/)
