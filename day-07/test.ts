@@ -24,7 +24,7 @@ $ ls
 5626152 d.ext
 7214296 k`;
 
-describe('Day 06: No Space Left On Device', () => {
+describe('Day 07: No Space Left On Device', () => {
   it('should calculate the sum of the total sizes of those directories', () => {
     expect(part1(input)).toEqual(95437);
   });
