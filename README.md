@@ -17,7 +17,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 08: Treetop Tree House](day-08/)
 - [Day 09: TBD](day-09/)
 - [Day 10: TBD](day-10/)
-- [Day 11: TBD](day-11/)
+- [Day 11: Monkey in the Middle](day-11/)
 - [Day 12: TBD](day-12/)
 - [Day 13: TBD](day-13/)
 - [Day 14: TBD](day-14/)
